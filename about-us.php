@@ -146,7 +146,7 @@
                 </div>
                 <div class="services__content">
                   <h4 class="title">
-                    <a href="services-details.php">Year Experience</a>
+                    <a href="#">Year Experience</a>
                   </h4>
                   <p>
                     Lorem ipsum dolor sitamet const adipiscng Duis eletum
@@ -160,7 +160,7 @@
                 </div>
                 <div class="services__content">
                   <h4 class="title">
-                    <a href="services-details.php">Expert Teams</a>
+                    <a href="#">Expert Teams</a>
                   </h4>
                   <p>
                     Lorem ipsum dolor sitamet const adipiscng Duis eletum
@@ -174,7 +174,7 @@
                 </div>
                 <div class="services__content">
                   <h4 class="title">
-                    <a href="services-details.php">Best NFT Game</a>
+                    <a href="#">Best NFT Game</a>
                   </h4>
                   <p>
                     Lorem ipsum dolor sitamet const adipiscng Duis eletum
@@ -188,7 +188,7 @@
                 </div>
                 <div class="services__content">
                   <h4 class="title">
-                    <a href="services-details.php">Worldwide Client</a>
+                    <a href="#">Worldwide Client</a>
                   </h4>
                   <p>
                     Lorem ipsum dolor sitamet const adipiscng Duis eletum
@@ -202,25 +202,25 @@
             <div class="services__images">
               <div class="services__images-item active">
                 <img alt="img" src="./img/services_img01.jpg" />
-                <a class="services__link" href="services-details.php">
+                <a class="services__link" href="#">
                   <i class="flaticon-next"></i>
                 </a>
               </div>
               <div class="services__images-item">
                 <img alt="img" src="./img/services_img02.jpg" />
-                <a class="services__link" href="services-details.php">
+                <a class="services__link" href="#">
                   <i class="flaticon-next"></i>
                 </a>
               </div>
               <div class="services__images-item">
                 <img alt="img" src="./img/services_img03.jpg" />
-                <a class="services__link" href="services-details.php">
+                <a class="services__link" href="#">
                   <i class="flaticon-next"></i>
                 </a>
               </div>
               <div class="services__images-item">
                 <img alt="img" src="./img/services_img04.jpg" />
-                <a class="services__link" href="services-details.php">
+                <a class="services__link" href="#">
                   <i class="flaticon-next"></i>
                 </a>
               </div>
